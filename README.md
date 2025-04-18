@@ -5,7 +5,17 @@
 ## Hello World!, I'm Jyothika Rajesh, a passionate Software Developer 👋:
 
 ## 💫 About Me:
-👩‍💻 I'm currently working on<br>An Alumni Association Platform for Engineering Colleges. This MERN-stack web application connects students and alumni, manages events and donations, and features intelligent alumni recommendations based on student interests. It includes admin management, messaging, and career guidance functionalities—all secured with JWT authentication.<br>🤝 I'm looking to collaborate on<br>Full-stack web development projects that aim to make a real-world impact. I enjoy building scalable, user-centric applications that incorporate modern design, secure authentication, and efficient backend operations.<br>🙋‍♀️ I'm looking for help with<br>Fine-tuning scalability and security aspects in web applications, improving search and filtering mechanisms, and integrating seamless user experiences across large-scale platforms.<br>📚 I'm currently learning<br>• Building robust backend APIs with Express.js<br>• Enhancing frontend state management and performance in React.js<br>💬 Ask me about<br>• Developing end-to-end web applications using the MERN stack<br>• Structuring software using Software Requirements Specification (SRS) documents<br>✨ Fun fact<br>I love blending creativity with code! I once created a sorting visualizer that not only taught algorithms but also let users control animation speed, interact in real-time, and actually see how logic flows—because learning should always be a visual adventure.
+👩‍💻 I'm currently working on<br>An Alumni Association Platform for Engineering Colleges. This MERN-stack web application connects students and alumni, manages events and donations, and features intelligent alumni recommendations based on student interests. It includes admin management, messaging, and career guidance functionalities—all secured with JWT authentication.<br>
+
+🤝 I'm looking to collaborate on<br>Full-stack web development projects that aim to make a real-world impact. I enjoy building scalable, user-centric applications that incorporate modern design, secure authentication, and efficient backend operations.<br>
+
+🙋‍♀️ I'm looking for help with<br>Fine-tuning scalability and security aspects in web applications, improving search and filtering mechanisms, and integrating seamless user experiences across large-scale platforms.<br>
+
+📚 I'm currently learning<br>• Building robust backend APIs with Express.js<br>• Enhancing frontend state management and performance in React.js<br>
+
+💬 Ask me about<br>• Developing end-to-end web applications using the MERN stack<br>• Structuring software using Software Requirements Specification (SRS) documents<br>
+
+✨ Fun fact<br>I love blending creativity with code! I once created a sorting visualizer that not only taught algorithms but also let users control animation speed, interact in real-time, and actually see how logic flows—because learning should always be a visual adventure.
 
 
 ## 🌐 Socials:
