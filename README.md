@@ -10,10 +10,10 @@
 ## 💫 About Me
 
 👩‍💻 **I'm currently working on**  
-An Alumni Association Platform for Engineering Colleges. This MERN-stack web application connects students and alumni, manages events and donations, and features intelligent alumni recommendations based on student interests. It includes admin management, messaging, and career guidance functionalities—all secured with JWT authentication.
+• Designing and developing my personal portfolio website to showcase projects and skills
 
 🤝 **I'm looking to collaborate on**  
-Full-stack web development projects that aim to make a real-world impact. I enjoy building scalable, user-centric applications that incorporate modern design, secure authentication, and efficient backend operations.
+Python-based software development and full-stack web development projects that aim to make a real-world impact. I enjoy building scalable, user-centric applications with clean architecture, secure authentication, and efficient backend systems.
 
 🙋‍♀️ **I'm looking for help with**  
 Fine-tuning scalability and security aspects in web applications, improving search and filtering mechanisms, and integrating seamless user experiences across large-scale platforms.
@@ -23,8 +23,9 @@ Fine-tuning scalability and security aspects in web applications, improving sear
 • Enhancing frontend state management and performance in React.js  
 
 💬 **Ask me about**  
-• Developing end-to-end web applications using the MERN stack  
-• Structuring software using Software Requirements Specification (SRS) documents  
+• Data Structures & Algorithms (DSA)  
+• Object-Oriented Programming (OOP) using Python  
+• Python programming & software development concepts  
 
 ✨ **Fun fact**  
 I love blending creativity with code! I once created a sorting visualizer that not only taught algorithms but also let users control animation speed, interact in real-time, and actually see how logic flows—because learning should always be a visual adventure.
