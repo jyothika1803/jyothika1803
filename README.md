@@ -92,10 +92,4 @@ Tech Stack: ReactJS, JavaScript, HTML, CSS
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jyothika1803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=jyothika1803&icon=0&color=0)](https://visitcount.itsvg.in)
