@@ -32,6 +32,23 @@ I love blending creativity with code! I once created a sorting visualizer that n
 
 ---
 
+## 🚀 Featured Projects
+
+### 📊 React Admin Dashboard
+Responsive analytics dashboard with charts, product insights, and Google Maps API integration.
+
+Tech Stack: ReactJS, JavaScript, HTML, CSS, Google Maps API
+
+🔗 https://github.com/jyothika1803/dashboard-project
+
+
+### 🔢 Algomorph – Sorting Algorithm Visualizer
+Interactive visualization of Bubble, Selection, Insertion, Merge, and Quick Sort with real-time controls.
+
+Tech Stack: ReactJS, JavaScript, HTML, CSS
+
+🔗 https://github.com/jyothika1803/Algomorph
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothika-rajesh-176b13267/)  
@@ -78,12 +95,6 @@ I love blending creativity with code! I once created a sorting visualizer that n
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=jyothika1803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![Dev Quote](https://github.com/jyothika1803/jyothika1803/blob/main/Screenshot%202025-04-19%20011042.png)
 
 ---
 
